@@ -1,0 +1,16 @@
+D:\LeetCode\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.csproj.AssemblyReference.cache
+D:\LeetCode\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.AssemblyInfoInputs.cache
+D:\LeetCode\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.AssemblyInfo.cs
+D:\LeetCode\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.csproj.CoreCompileInputs.cache
+D:\LeetCode\TicTacToe\TicTacToe\bin\Debug\net5.0\TicTacToe.exe
+D:\LeetCode\TicTacToe\TicTacToe\bin\Debug\net5.0\TicTacToe.deps.json
+D:\LeetCode\TicTacToe\TicTacToe\bin\Debug\net5.0\TicTacToe.runtimeconfig.json
+D:\LeetCode\TicTacToe\TicTacToe\bin\Debug\net5.0\TicTacToe.runtimeconfig.dev.json
+D:\LeetCode\TicTacToe\TicTacToe\bin\Debug\net5.0\TicTacToe.dll
+D:\LeetCode\TicTacToe\TicTacToe\bin\Debug\net5.0\ref\TicTacToe.dll
+D:\LeetCode\TicTacToe\TicTacToe\bin\Debug\net5.0\TicTacToe.pdb
+D:\LeetCode\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.dll
+D:\LeetCode\TicTacToe\TicTacToe\obj\Debug\net5.0\ref\TicTacToe.dll
+D:\LeetCode\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.pdb
+D:\LeetCode\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.genruntimeconfig.cache

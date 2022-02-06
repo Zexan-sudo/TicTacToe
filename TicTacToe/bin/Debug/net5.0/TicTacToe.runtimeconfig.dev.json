@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Noah\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Noah\\.nuget\\packages",
+      "D:\\Visual Studio 2022\\Shared Components Tools And SDKs\\NuGetPackages"
+    ]
+  }
+}
